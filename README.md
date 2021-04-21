@@ -1,8 +1,8 @@
 # Youtube-Download
 
-url: `<`copy and paste youtube link here`>`  
-resolution: `<`if blank this field get highest resolution`>`  
-only_audio: `<`if you write something this field get only audio`>`
+url: &#60;copy and paste youtube link here&#62;  
+resolution: &#60;if blank this field get highest resolution&#62;  
+only_audio: &#60;if you write something this field get only audio&#62;
 
 ## Examples
 ### download audio
